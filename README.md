@@ -1,6 +1,6 @@
 # ChoiYJ2's GitHub
 
-<a href="https://github.com/ChoiYJ2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ChoiYJ2&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/ChoiYJ2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChoiYJ2&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="SOKURI's github stats" /></a>
 
 ![ChoiYJ2's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiYJ2&show_icons=true&theme=radical)
 
