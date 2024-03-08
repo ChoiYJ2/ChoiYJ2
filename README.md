@@ -2,7 +2,7 @@
 
 ---
 
-[![ChoiYJ2's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiYJ2&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ChoiYJ2/github-readme-stats)
+[![ChoiYJ2's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiYJ2&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ChoiYJ2)
 
 <a href="https://github.com/ChoiYJ2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiYJ2&layout=compact&theme=merko&hide_border=true" /></a> 
 <!--
