@@ -4,4 +4,4 @@
 
 <a href="https://github.com/ChoiYJ2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiYJ2&layout=compact&theme=merko&hide_border=true" /></a> 
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:F0FFF0,50:66CDAA,100:F0FFF0&height=50&fontColor=006400)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:F0FFF0,25:66CDAA,50:F0FFF0,75:66CDAA,100:F0FFF0&height=50&fontColor=006400)
