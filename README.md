@@ -5,6 +5,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChoiYJ2&theme=vue&border_radius=2&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=770&fire=EB7F00&border=E2E2E2&stroke=E2E2E2)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChoiYJ2&theme=vue&bg_color=white&point=228B22&line=66CDAA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChoiYJ2&theme=vue&bg_color=white&point=228B22&line=66CDAA&area_color=2E8B57)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=0:F0FFF0,25:66CDAA,50:3CB371,75:66CDAA,100:F0FFF0&height=50&fontColor=006400)
