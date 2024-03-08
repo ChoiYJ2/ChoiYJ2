@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://github.com/ChoiYJ2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChoiYJ2&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="SOKURI's github stats" /></a>
+[![ChoiYJ2's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiYJ2&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 <a href="https://github.com/ChoiYJ2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiYJ2&layout=compact&theme=merko&hide_border=true" /></a> 
 <!--
