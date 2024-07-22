@@ -7,6 +7,6 @@
 
 [![ChoiYJ2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChoiYJ2&theme=vue&bg_color=white&point=2E8B57&line=66CDAA)](https://github.com/ChoiYJ2/github-readme-activity-graph)
 
-<a href="https://github.com/ChoiYJ2"><img src="https://avatars.githubusercontent.com/ChoiYJ2" width="50px;" alt=""></a><div>최유정</div></br><a href="https://github.com/ChoiYJ2"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></a>|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=you01)](https://solved.ac/you01)
+|<a href="https://github.com/ChoiYJ2"><img src="https://avatars.githubusercontent.com/ChoiYJ2" width="50px;" alt=""></a><div>최유정</div></br><a href="https://github.com/ChoiYJ2"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></a>|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=you01)](https://solved.ac/you01)|
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=0:F0FFF0,25:66CDAA,50:3CB371,75:66CDAA,100:F0FFF0&height=50&fontColor=006400)
